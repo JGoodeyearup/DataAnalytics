@@ -1,0 +1,26 @@
+State,State Region,Hamburger,Milkshake
+Washington,Northwest,67%,0.19
+Oregon,Northwest,68%,0.18
+Idaho,Northwest,67%,0.20
+Montana,Northwest,75%,0.14
+North Dakota,NorthCentral,69%,0.19
+South Dakota,NorthCentral,76%,0.14
+Nebraska,NorthCentral,71%,0.17
+Minnesota,NorthCentral,67%,0.19
+Wisconsin,NorthCentral,66%,0.20
+Michigan,NorthCentral,66%,0.21
+,,,
+State Region,(All),,
+,,,
+Row Labels,Sum of Hamburger,Sum of Milkshake,
+Idaho,67%,0.20,
+Michigan,66%,0.21,
+Minnesota,67%,0.19,
+Montana,75%,0.14,
+Nebraska,71%,0.17,
+North Dakota,69%,0.19,
+Oregon,68%,0.18,
+South Dakota,76%,0.14,
+Washington,67%,0.19,
+Wisconsin,66%,0.20,
+Grand Total,692%,1.81,
