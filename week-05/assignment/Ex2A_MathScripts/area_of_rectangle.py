@@ -1,4 +1,4 @@
-side_A = 350
-side_B = 700
+side_A = float(input("Enter the length of side A: "))
+side_B = float(input("Enter the length of side B: "))
 area = side_A * side_B
-print("The area of the rectangle is: " + str(area))
+print(f"The area of the rectangle is: {area}")
