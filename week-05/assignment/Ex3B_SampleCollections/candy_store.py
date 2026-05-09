@@ -1,0 +1,15 @@
+fruity_candy = ("Skittles", "Mamba", "Starburst")
+fruity_flavors = ("mango", "lemon", "lime")
+candy_flavors = set()
+candy_flavors.add((fruity_flavors[0], fruity_candy[0]))
+candy_flavors.add((fruity_flavors[0], fruity_candy[1]))
+candy_flavors.add((fruity_flavors[0], fruity_candy[2]))
+candy_flavors.add((fruity_flavors[1], fruity_candy[0]))
+candy_flavors.add((fruity_flavors[1], fruity_candy[1]))
+candy_flavors.add((fruity_flavors[1], fruity_candy[2]))
+candy_flavors.add((fruity_flavors[2], fruity_candy[0]))
+candy_flavors.add((fruity_flavors[2], fruity_candy[1]))
+candy_flavors.add((fruity_flavors[2], fruity_candy[2]))
+print(f"Today's candy options include: {candy_flavors}") 
+
+# I noticed that the output would include the curled brackets.
