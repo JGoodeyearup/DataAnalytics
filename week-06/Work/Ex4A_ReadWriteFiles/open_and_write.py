@@ -1,0 +1,6 @@
+about_me = open("about_me.txt", "at")
+about_me.write('\n\nIf you could do anything for your "perfect" night out, where would you go and what would you do?')
+about_me.write("\n\nA perfect night out in my opinion would be me going to San Francisco, over by Poer 39, with my wife. ")
+about_me.write("\nEating at the Crab House, looking at the water light up from the bright white lights from the ferris wheel")
+about_me.write("\nTHen heading back home and just watching tv")
+about_me.close()
